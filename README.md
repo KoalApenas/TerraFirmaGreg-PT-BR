@@ -21,4 +21,4 @@ receitas, scripts KubeJS, IDs, tarefas, filtros, recompensas, balanceamento ou
 progressão. É um projeto comunitário não oficial; os direitos dos mods e do
 modpack permanecem com seus respectivos autores.
 
-Compatibilidade: TerraFirmaGreg Modern 0.13.7, Minecraft 1.20.1.
+Compatibilidade: TerraFirmaGreg Modern 0.13.7.
